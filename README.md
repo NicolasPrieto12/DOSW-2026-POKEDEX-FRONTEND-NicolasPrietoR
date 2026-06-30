@@ -27,6 +27,10 @@ NikoDex es una Pokédex digital diseñada para explorar, consultar y gestionar i
 
 ### 2. Logotipo
 
+<p align="center">
+  <img src="Images/NikoDex.png" alt="Logo NikoDex" width="300"/>
+</p>
+
 El logotipo oficial de NikoDex está compuesto por:
 
 - Ilustración de **Cubone** como personaje principal
