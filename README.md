@@ -13,6 +13,24 @@
 
 ---
 
+## Diagramas de Arquitectura
+
+### Diagrama de Contexto (C4 — Nivel 1)
+
+<p align="center">
+  <img src="Images/Diagrama C4.png" alt="Diagrama de Contexto C4 NikoDex" width="900"/>
+</p>
+
+---
+
+### Diagrama de Componentes General (C4 — Nivel 2)
+
+<p align="center">
+  <img src="Images/Diagrama de componentes.png" alt="Diagrama de Componentes NikoDex" width="900"/>
+</p>
+
+---
+
 ## Manual de Identidad — NikoDex
 
 ---
